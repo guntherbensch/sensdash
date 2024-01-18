@@ -1,0 +1,15 @@
+v 1.1
+d {bf:sensdash}: A Stata package to plot sensitivity dashboard for multiverse of replication estimates
+d After installation, see {bf:help sensdash}.
+d
+d Requires: Stata version 14 or higher.
+d
+d This  version: 17 Jan 2024
+d First version: 17 Jan 2024
+d License: MIT
+d
+d Author: Gunther Bensch (bensch@rwi-essen.de)
+d
+f sensdash.ado
+f sensdash.sthlp
+f sensdash_gendata.ado
